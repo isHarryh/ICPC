@@ -1,0 +1,9 @@
+# Exclude
+/*/
+*.exe
+*.ilk
+*.obj
+*.pdb
+
+# Include
+!src/
